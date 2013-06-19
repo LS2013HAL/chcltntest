@@ -1,7 +1,7 @@
 package jp.ls.ateam.sample;
 
 /*
- *  サンプルクラス
+ *  サンプルクラスA
  */
 public class Sample {
 
